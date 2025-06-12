@@ -1,0 +1,9 @@
+{
+    "email": "arunkumarpaidipelli46@gmail.com",
+    "name": "Paidipelli Arun kumar",
+    "mobileNo": "7702794050",
+    "githubUsername": "Arunkumar614",
+    "rollNo": "2303A51L48",
+    "collegeName": "SR University",
+    "accesscode": "MVGwEF"
+}
